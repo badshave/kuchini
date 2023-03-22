@@ -1,0 +1,12 @@
+#EXTINF:-1 tvg-id="" tvg-name="UK: Smithsonian Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/38aec864bb252f0bc0f5f40c05a461eb.png" group-title="UK",UK: Smithsonian Channel
+http://kuchini.site:8080/Jonsno/i58CQF2j3yk5UkOU/266984
+#EXTINF:-1 tvg-id="" tvg-name="US: Smithsonian Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7348c25eb71dcf1d4f6a4c53ed48ec35.png" group-title="USA",US: Smithsonian Channel
+http://kuchini.site:8080/Jonsno/i58CQF2j3yk5UkOU/8585
+#EXTINF:-1 tvg-id="smithsonian.ca" tvg-name="CA: Smithsonian Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/6d681f6fe45416657379864fef191ac0.png" group-title="Canada",CA: Smithsonian Channel
+http://kuchini.site:8080/Jonsno/i58CQF2j3yk5UkOU/34738
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Smithsonian Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/04b9419e1f3145723139efc0a76e2e4d.png" group-title="Argentina",ARG: Smithsonian Channel
+http://kuchini.site:8080/Jonsno/i58CQF2j3yk5UkOU/285203
+#EXTINF:-1 tvg-id="" tvg-name="AU: Smithsonian Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/260faf55709f9e5f93ec10c6f741314d.png" group-title="Australia",AU: Smithsonian Channel
+http://kuchini.site:8080/Jonsno/i58CQF2j3yk5UkOU/279779
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name="UK: MUTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/73eef793ce91db2ff4122b6e3581ec7b.png" group-title="UK ? Football",UK: MUTV
+http://kuchini.site:8080/Jonsno/i58CQF2j3yk5UkOU/1102
